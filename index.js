@@ -68,6 +68,38 @@ const promptProject = () => {
             return false;
           }
         }
+      },
+      {
+        type: 'input',
+        name: 'gitHub',
+        message: 'What is your gitHub username:',
+        validate: input => {
+          if (input) {
+            return true;
+          } else {
+            console.log('please provide your gitHub username:');
+            return false;
+          }
+        }
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'What is your email:',
+        validate: input => {
+          if (input) {
+            return true;
+          } else {
+            console.log('please provide your email:');
+            return false;
+          }
+        }
+      },
+      {
+        type: 'list',
+        name: 'license',
+        message: 'Choose a license for your application from the list of options',
+        choices: ['Apache', 'Boost', 'Eclipse', 'IBM', 'ISC', 'MIT', 'Mozilla']
       }
     ])
   };
