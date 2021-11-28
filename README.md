@@ -1,5 +1,5 @@
 
-# README generator
+# README Generator
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
@@ -18,10 +18,10 @@ When creating an open source project on GitHub, it’s important to have a high-
 npm init -y & npm i inquirer --save
 
 ## Usage
-I am using this right now to make the readme for the readme generator
+This very README is a example of the README Generator which is quick and simple.
 
 ## Credits
-none
+Just me
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -29,4 +29,4 @@ none
 ## Questions
 My gitHub account: https://github.com/Hlaing56
 
-My email to reach me if you have additional questions: HBA@gmail.com
+My email to reach me if you have additional questions: betahba@gmail.com
