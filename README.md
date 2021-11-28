@@ -1,9 +1,9 @@
 
-# README Generator
+# README generator
 ![badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Using node and the likes of inquirer, there is already a template where all you need to do is put in your project information and you will get a basic readme file. 
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions. 
 
 ## Table of Contents
 
@@ -15,10 +15,10 @@ Using node and the likes of inquirer, there is already a template where all you 
 * [Questions](#questions)
 
 ## Installation
-npm inti -y & npm i inquirer --save
+npm init -y & npm i inquirer --save
 
 ## Usage
-This README.md
+I am using this right now to make the readme for the readme generator
 
 ## Credits
 none
@@ -29,4 +29,4 @@ none
 ## Questions
 My gitHub account: https://github.com/Hlaing56
 
-My email to reach me if you have additional questions: Betahba@gmail.com
+My email to reach me if you have additional questions: HBA@gmail.com
